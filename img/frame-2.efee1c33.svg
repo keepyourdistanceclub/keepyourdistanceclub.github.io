@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="352px" viewBox="0 0 352 352" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>frame-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-11" transform="translate(-31.000000, -1147.000000)" stroke="#000000">
+            <g id="frame-2" transform="translate(32.000000, 1148.000000)">
+                <polyline id="Path-4" points="-6.51565888e-13 37.8378378 -6.39488462e-13 4.26325641e-14 37.8378378 4.26325641e-14"></polyline>
+                <polyline id="Path-4-Copy-2" transform="translate(331.081081, 18.918919) scale(-1, 1) translate(-331.081081, -18.918919) " points="312.162162 37.8378378 312.162162 4.26325641e-14 350 4.26325641e-14"></polyline>
+                <polyline id="Path-4-Copy-3" transform="translate(331.081081, 331.081081) scale(-1, 1) rotate(-90.000000) translate(-331.081081, -331.081081) " points="312.162162 350 312.162162 312.162162 350 312.162162"></polyline>
+                <polyline id="Path-4-Copy" transform="translate(18.918919, 331.081081) rotate(-90.000000) translate(-18.918919, -331.081081) " points="-6.51565888e-13 350 -6.39488462e-13 312.162162 37.8378378 312.162162"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

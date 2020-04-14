@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="171px" viewBox="0 0 174 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.000130784089 0.466148853 174.013 0.466148853 174.013 171 0.000130784089 171"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(0.000000, -1.000000)">
+            <g id="Group-3" transform="translate(0.000000, 0.534000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M96.0387,7.3865 C106.8997,-4.6085 126.6727,-0.3475 131.6307,15.0555 L152.3037,79.2885 L172.9767,143.5225 C177.9337,158.9255 164.3567,173.9195 148.5387,170.5115 L82.5737,156.2975 L16.6097,142.0835 C0.7917,138.6755 -5.4053,119.4215 5.4557,107.4265 L50.7467,57.4065 L96.0387,7.3865 Z" id="Fill-1" fill="#F15A24" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M84.0953,117.1061 L97.8223,119.9881 L95.2803,132.0991 L81.5533,129.2171 L84.0953,117.1061 Z M110.5323,59.4311 L99.0933,113.9311 L85.3663,111.0501 L96.8053,56.5511 L110.5323,59.4311 Z" id="Fill-4" fill="#0000FF"></path>
+        </g>
+    </g>
+</svg>

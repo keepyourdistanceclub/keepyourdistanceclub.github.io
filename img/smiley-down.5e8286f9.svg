@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-523.000000, -1625.000000)" stroke="#000000">
+            <g id="Group-5" transform="translate(288.000000, 1623.000000)">
+                <g id="Group-Copy-3" transform="translate(251.000000, 18.000000) rotate(-180.000000) translate(-251.000000, -18.000000) translate(236.000000, 3.000000)">
+                    <circle id="Oval-Copy-8" stroke-width="1.5" cx="15" cy="15" r="15"></circle>
+                    <circle id="Oval" stroke-width="0.642857143" fill="#000000" cx="10.5" cy="12" r="2"></circle>
+                    <circle id="Oval-Copy-7" stroke-width="0.642857143" fill="#000000" cx="19.5" cy="12" r="2"></circle>
+                    <path d="M20.5,18.5 C20.5,20.9852966 18.1495127,23 15.25,23 C12.3504873,23 10,20.9852966 10,18.5" id="Stroke-1" stroke-width="1.5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

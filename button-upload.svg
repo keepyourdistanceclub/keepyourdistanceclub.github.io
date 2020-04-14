@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1035.000000, -1426.000000)">
+            <g id="Group-7-Copy" transform="translate(1035.000000, 1426.000000)">
+                <circle id="Oval" fill="#000000" transform="translate(25.000000, 25.000000) rotate(-180.000000) translate(-25.000000, -25.000000) " cx="25" cy="25" r="25"></circle>
+                <g id="Group-6" transform="translate(15.000000, 11.000000)" stroke="#FFFFFF">
+                    <g id="Group-19">
+                        <polygon id="Path" stroke-width="0.8" fill="#FFFFFF" transform="translate(9.840764, 10.500000) rotate(-450.000000) translate(-9.840764, -10.500000) " points="16.380744 9.95205479 1.74807084e-13 9.95205479 3.57705823e-13 11.390411 16.380744 11.390411 10.9482038 16.8013699 12.1516146 18 19.6815279 10.5342466 19.6471448 10.5 18.4781171 9.33561644 12.1516146 3 10.9482038 4.19863014"></polygon>
+                        <path d="M0,24.5 L20,24.5 L0,24.5 Z" id="Path-5" stroke-width="2" transform="translate(10.000000, 24.500000) rotate(-180.000000) translate(-10.000000, -24.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
